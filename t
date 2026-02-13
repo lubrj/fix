@@ -1,1 +1,0 @@
-https://discord.com/api/webhooks/1459873674168631421/N7tJJuHKv6xRev1CJrS7jZSFAjIbSnozKGcrsWMb9ufVi3mT7wrbu_hMeNgOIbPDOs09
